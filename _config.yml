@@ -2,6 +2,7 @@ name: wireworks
 favicon: null
 layout_spectrum: 1
 typography_spectrum: 0
+title: Wireworks
 cta:
   domain: null
   bucket: null
