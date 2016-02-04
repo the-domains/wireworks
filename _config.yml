@@ -1,0 +1,28 @@
+name: wireworks
+favicon: null
+layout_spectrum: 0.691504959249869
+typography_spectrum: 0.8986662989482284
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.24477301305159926
+  lightness: 0.863991932477802
+  saturation: 0.6324162397067994
+  rhythmicContrast: 0.3742940367665142
+purpose: []
