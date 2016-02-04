@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[wireworks]]></title>
-        <description><![CDATA[wireworks]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <title><![CDATA[Wireworks]]></title>
+        <description><![CDATA[Wireworks]]></description>
+        <link>https://thegrid.ai/wireworks/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 04 Feb 2016 01:29:57 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 04 Feb 2016 01:31:46 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/wireworks/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>Welcome to Wireworks</p>]]></description>
-            <link>undefined1bc0e4b8-a0b9-4a2c-a9df-93a9ba7f3f16/index.html</link>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/70608b64-7c86-4127-84d5-33cfd70279e9.png">]]></description>
+            <link>https://thegrid.ai/wireworks/1bc0e4b8-a0b9-4a2c-a9df-93a9ba7f3f16/index.html</link>
             <guid isPermaLink="false">1bc0e4b8-a0b9-4a2c-a9df-93a9ba7f3f16</guid>
-            <pubDate>Thu, 04 Feb 2016 01:29:45 GMT</pubDate>
+            <pubDate>Thu, 04 Feb 2016 01:31:23 GMT</pubDate>
         </item>
     </channel>
 </rss>
